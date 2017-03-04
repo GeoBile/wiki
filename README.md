@@ -13,6 +13,8 @@ Resources for building smart geo-spatial platform
   * City Pulse: http://www.ict-citypulse.eu/page/content/open-source-0
   * http://www.citilabs.com/
   * http://www.fhwa.dot.gov/
+  * https://www.fromatob.com/
+  * http://thinkingcities.com/
 
 ##Courses
   * Machine learning on Geo-spatial data
