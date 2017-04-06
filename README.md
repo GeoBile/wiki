@@ -1,7 +1,7 @@
 # wiki
 Resources for building smart geo-spatial platform
 
-##Linkes
+## Linkes
   * Autoware: https://github.com/CPFL/Autoware
   * http://www.map4.jp/
   * Urban Engines: https://www.urbanengines.com/
@@ -15,8 +15,10 @@ Resources for building smart geo-spatial platform
   * http://www.fhwa.dot.gov/
   * https://www.fromatob.com/
   * http://thinkingcities.com/
+  * Reimagining Urban Mobility: The Next Five Years in Transport | Di-Ann Eisnoor | Slush 2016 https://www.youtube.com/watch?v=dUqRAAYTAa0&t
 
-##Courses
+
+## Courses
   * Machine learning on Geo-spatial data
     * Data mungling techniques for geo data
       * PostGIS course: http://revenant.ca/www/postgis/workshop/
