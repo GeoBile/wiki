@@ -16,6 +16,7 @@ Resources for building smart geo-spatial platform
   * https://www.fromatob.com/
   * http://thinkingcities.com/
   * Reimagining Urban Mobility: The Next Five Years in Transport | Di-Ann Eisnoor | Slush 2016 https://www.youtube.com/watch?v=dUqRAAYTAa0&t
+  * 40 BRILLIANT OPEN DATA PROJECTS (AND HOW THEY'RE REDEFINING SMART CITIES) https://carto.com/blog/forty-brilliant-open-data-projects
 
 
 ## Courses
